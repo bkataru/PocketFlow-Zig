@@ -1,3 +1,7 @@
+# **Update**: This is legacy and frozen. Going forward, please use the more maintained [The-Pocket/PocketFlow-Zig](https://github.com/The-Pocket/PocketFlow-Zig) instead
+
+---
+
 # PocketFlow-Zig
 
 A Zig implementation of [PocketFlow](https://github.com/The-Pocket/PocketFlow), a minimalist flow-based programming framework for building LLM-powered workflows.
